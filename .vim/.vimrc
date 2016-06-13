@@ -8,5 +8,4 @@ set encoding=utf-8
 
 execute pathogen#infect()
 
-set ai si
-set ruler laststatus=2 number title hlsearch
+set ai si ruler laststatus=2 number title hlsearch tabstop=4
